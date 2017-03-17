@@ -15,5 +15,4 @@ alias gra='git remote add'
 
 git clone https://github.com/slaughtr/makeJavaProj ~/Desktop
 
-printf ""*":
-  editor:\n    fontSize: 18\n    scrollPastEnd: true\n    showIndentGuide: true\n    showInvisibles: true\n    softWrap: true\n  "exception-reporting":\n    userId: "5a5d7ab9-6a5a-706f-c6f4-53c659d08e6c"\n  linter:\n    errorPanelHeight: 663\n  welcome:\n    showOnStartup: false" > ~/.atom/config.cson
+printf "\"*\":\n  editor:\n    fontSize: 18\n    scrollPastEnd: true\n    showIndentGuide: true\n    showInvisibles: true\n    softWrap: true\n  \"exception-reporting\":\n    userId: \"5a5d7ab9-6a5a-706f-c6f4-53c659d08e6c\"\n  linter:\n    errorPanelHeight: 663\n  welcome:\n    showOnStartup: false" > ~/.atom/config.cson
