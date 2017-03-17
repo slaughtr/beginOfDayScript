@@ -20,7 +20,7 @@ Will also auto-download my version of the makeJavaProj script to current directo
 
 3. Wait.
 
-##TODO (in no particular order)
+## TODO (in no particular order)
 
 1. Set up to create .pairs file appropriately (tabs v importante!) Just need to import from gitAndRepoTool, more or less (so bloaty though)
 2. Set up to open an incognito chrome window that auto-navigates to github login page.
