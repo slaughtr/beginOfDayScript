@@ -16,7 +16,7 @@ Will also auto-download my version of the makeJavaProj script to current directo
 ## Setup/Installation Requirements
 1. Clone this repository onto your desktop or copy the contents of the .sh file in my repo into your own .sh file. Change gpds alias to your own initals.
 
-2. In terminal, navigate to parent directory where beginOfDayScript.sh resides. Type ./beginOfDayScript.sh
+2. In terminal, navigate to parent directory where beginOfDayScript.sh resides. Type 'chmod +x beginOfDayScript.sh' without the quotes (this gives you permission to run the script. Stupid Macs). Then, type './beginOfDayScript.sh'
 
 3. Wait.
 
